@@ -1,0 +1,13 @@
+p1. Tai phan mem Raspberry Pi Imager.
+p2. Chuan bi the nho 16gb +
+p3. Bo the vo dau loc (flash) -> Write (Len mang)
+p4. Tai phan mem putty -> giao thuc ssh -> Dieu khien tu xa (thong qua dia chi IP (ten mien))
+p5.ten mien: raspberrypi.local  (Muon biet dia chi IP: Advance IP Scanner) -> St IP dong
+p6. Remote Access Desktop (Chia se man hinh giua Raspberry va Laptop - dia chi IP)
+Chu y tai p5:
+1. Dang nhap: Tai khoan: pi ; Mat khau: raspberry
+-> Dung cau lenh: sudo raspi-config (Cai wifi)
+-> Chon 2.Wifi Option - > Wireless -> SSID : BK_University_GUEST  MK: . Di chuyen (Tab -> OK, finish)
+-> Kiem tra wifi: ping -c2 www.google.com -> Nhan -> OK.
+-> Thiet lap ket noi Remote Access Destop -> sudo apt-get install xrdp
+-> Mot may tinh moi - >
