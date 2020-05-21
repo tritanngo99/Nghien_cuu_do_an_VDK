@@ -1,0 +1,4 @@
+1) Mo terminal
+2) command:
+cd tflite1
+source tflite1-env/bin/activate
