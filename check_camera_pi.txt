@@ -1,0 +1,2 @@
+1) Chu y: Can than cam day ruy bang (ribbon) camera vo port Camera tren raspberry pi
+2) Check : https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera
