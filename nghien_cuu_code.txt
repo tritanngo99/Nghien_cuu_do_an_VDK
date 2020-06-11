@@ -5,3 +5,5 @@ Y chinh: Module OS nay cho phep chung ta lam viec voi cac tap tin va thu muc.
 Link: https://techblog.vn/pymotm-argparse
 Link de hieu: https://www.youtube.com/watch?v=q94B9n_2nf0
 Y chinh: truyen doi so, va dua ra nhieu option
+3) module cv2: Import thu vien OpenCV
+4) Module numpy: Thu vien loi phuc vu cho khoa hoc may tinh, ho tro cho viec tinh toan cac mang nhieu chieu , numpy dac biet huu ich khi thuc hien cac ham lien quan den Dai so Tuyen tinh, lam viec chu yeu lien quan den mang va 
