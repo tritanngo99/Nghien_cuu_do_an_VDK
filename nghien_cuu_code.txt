@@ -1,0 +1,7 @@
+1) module OS:
+Link:https://viettuts.vn/python/mo-dun-os-trong-python
+Y chinh: Module OS nay cho phep chung ta lam viec voi cac tap tin va thu muc. 
+2) module argparse:
+Link: https://techblog.vn/pymotm-argparse
+Link de hieu: https://www.youtube.com/watch?v=q94B9n_2nf0
+Y chinh: truyen doi so, va dua ra nhieu option
