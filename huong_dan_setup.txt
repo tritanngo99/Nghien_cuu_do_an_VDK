@@ -1,6 +1,7 @@
 p1. Tai phan mem Raspberry Pi Imager.
 p2. Chuan bi the nho 16gb +
 p3. Bo the vo dau loc (flash) -> Write (Len mang)
+Link: https://www.youtube.com/watch?v=A0CLDoIkRDg
 p4. Tai phan mem putty -> giao thuc ssh -> Dieu khien tu xa (thong qua dia chi IP (ten mien))
 p5.ten mien: raspberrypi.local  (Muon biet dia chi IP: Advance IP Scanner) -> St IP dong
 p6. Remote Access Desktop (Chia se man hinh giua Raspberry va Laptop - dia chi IP)
